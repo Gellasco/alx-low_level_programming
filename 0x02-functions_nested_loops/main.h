@@ -1,5 +1,4 @@
 #ifndef _MAIN_H_
-#ifndef
 #define _MAIN_H_
 
 /**
